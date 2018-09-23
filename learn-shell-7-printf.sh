@@ -25,3 +25,4 @@ printf "%s %s %s\n" a b c d e f g h i j
 printf "%s %s \t %d \n" wxq 很👍 10000000000
 
 
+printf "%d %s %f" 10 wxq 10.0000000
